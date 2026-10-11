@@ -1,0 +1,6 @@
+{
+  "name": "Premier Educational Complex - School Management System",
+  "description": "A comprehensive, enterprise-grade school management and academic portal for Premier Educational Complex in Bishkek, Kyrgyzstan, featuring electronic gradebooks, student registers, ORT preparation, and bursar finance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
